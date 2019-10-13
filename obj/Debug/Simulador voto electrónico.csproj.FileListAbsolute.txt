@@ -1,0 +1,79 @@
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Form1.resources
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+e:\documents\visual studio 2015\Projects\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+H:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+H:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+H:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojResolveAssemblyReference.cache
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Form1.resources
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+H:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.Cache
+G:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+G:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+G:\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojAssemblyReference.cache
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Form1.resources
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.cache
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.CoreCompileInputs.cache
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+G:\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.cache
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojResolveAssemblyReference.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojAssemblyReference.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Form1.resources
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.CoreCompileInputs.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+C:\Users\Tosoni\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojResolveAssemblyReference.cache
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Form1.resources
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+E:\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.Cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojAssemblyReference.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.CoreCompileInputs.cache
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Principal.resources
+C:\Users\Tosoni\Desktop\Simulador voto electrónico 2\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Graficos.resources
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Graficos.resources
+E:\Desktop\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Principal.resources
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe.config
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.exe
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\bin\Debug\Simulador voto electrónico.pdb
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csprojAssemblyReference.cache
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Graficos.resources
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Principal.resources
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador_voto_electrónico.Properties.Resources.resources
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.GenerateResource.cache
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.csproj.CoreCompileInputs.cache
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.exe
+E:\Desktop\Universidad\Proyectos\Simulador voto electrónico\Simulador voto electrónico\obj\Debug\Simulador voto electrónico.pdb
